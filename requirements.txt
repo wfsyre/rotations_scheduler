@@ -1,0 +1,4 @@
+python-constraint
+pandas
+pygad
+numpy
